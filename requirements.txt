@@ -1,0 +1,6 @@
+mysql-connector-python
+ollama
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
